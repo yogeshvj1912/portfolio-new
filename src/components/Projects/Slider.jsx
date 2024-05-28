@@ -42,7 +42,7 @@ const SliderComp = () => {
 <div key={i}>
   <div className='box-1'><img src={ele.img} alt="" /></div>
   <div className='box-2'>{ele.disc}</div>
-  <div className='box-3'><a href={ele.link} target="_blank" rel="noopener noreferrer">Demo</a></div>
+  <div className='box-3'><a href={ele.link} target="_blank">Demo</a></div>
 </div>
 
         )
