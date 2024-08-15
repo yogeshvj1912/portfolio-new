@@ -24,7 +24,9 @@ const ProfComponent = () => {
             <br></br>
            I'm Waiting!
           </p>
-          <button>Ping me!</button>
+          <br></br>
+          <br></br>
+          <a className="resume" href="https://1drv.ms/w/s!ArzPdFOUM-w_j6Yh8Yt3FCIn1MBzPA" target="blank">resume</a>
           <Social>
             <p>Check out my</p>
             <div className="social-icons">
@@ -98,13 +100,12 @@ const Texts = styled.div`
     font-weight: 300;
   }
 
-  button {
+  .resume {
+  all:unset;
     padding: 0.7rem 2rem;
     margin-top: 3rem;
     cursor: pointer;
     background-color: #01be96;
-    border: none;
-    color: #fff;
     font-weight: 500;
     filter: drop-shadow(0px 10px 10px #01be9551);
     :hover {
