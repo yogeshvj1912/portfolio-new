@@ -31,7 +31,7 @@ let data = [
     github_link: "https://github.com/yogeshvj1912/day43-password-reset"
   },
   {
-    heading: "Note Pad App",
+    heading: "NotePad App",
     img: "notepad.png",
     tech_stack:"React.js, MongoDB, Express.js, Node.js",
     disc: "A sleek and user-friendly Notepad app that allows users to effortlessly create, edit, and manage their notes. It offers a fast and secure performance for a smooth note-taking experience.",

@@ -17,7 +17,7 @@ function SkillSet() {
         {
           path:"/img/js-logo.png",
           languageName:"JS",
-          percentage:"60%",
+          percentage:"70%",
         },
         {
           path:"/img/bootstrap-logo.png",
@@ -27,7 +27,7 @@ function SkillSet() {
         {
           path:"/img/react-logo.png",
           languageName:"REACT",
-          percentage:"60%",
+          percentage:"70%",
         },
         {
           path:"/img/mysql-logo.png",
@@ -37,12 +37,12 @@ function SkillSet() {
         {
           path:"/img/mongodb-logo.png",
           languageName:"mongo DB",
-          percentage:"60%",
+          percentage:"65%",
         },
         {
           path:"/img/node-logo.png",
           languageName:"nodeJS",
-          percentage:"60%",
+          percentage:"65%",
         },
       ]
   return (
