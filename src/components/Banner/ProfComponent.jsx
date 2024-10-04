@@ -26,7 +26,7 @@ const ProfComponent = () => {
           </p>
           <br></br>
           <br></br>
-          <a className="resume" href="https://1drv.ms/w/s!ArzPdFOUM-w_j6Yh8Yt3FCIn1MBzPA" target="blank">Resume</a>
+          <a className="resume" href="https://drive.google.com/file/d/1ic8_rKHx4HI86JZLAoLWfKz8QZnKueWM/view" target="blank">Resume</a>
           <Social>
             <p>Check out my</p>
             <div className="social-icons">
